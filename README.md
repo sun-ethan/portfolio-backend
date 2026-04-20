@@ -18,7 +18,7 @@ Ce dépôt contient le backend (proxy API) indispensable au fonctionnement du po
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/votre-pseudo/portfolio-backend.git
+   git clone https://github.com/sun-ethan/portfolio-backend.git
    cd portfolio-backend
    ```
 2. **Installer les dépendances** :
