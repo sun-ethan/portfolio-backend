@@ -46,4 +46,4 @@ Ce backend est configuré pour fonctionner avec [JSONBin.io](https://jsonbin.io/
 3. Récupérez votre `Bin ID` et votre `X-Master-Key`.
 
 ---
-*Développé avec ❤️ par [Votre Nom]*
+*Made by Ethan*
