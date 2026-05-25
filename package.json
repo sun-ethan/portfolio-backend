@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-sql-backend",
+  "version": "1.0.0",
+  "description": "Backend Express.js avec MariaDB pour Portfolio SQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "init-db": "node init_db.js"
+  },
+  "keywords": ["portfolio", "express", "mariadb"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mariadb": "^3.1.5",
+    "dotenv": "^16.0.3"
+  }
+}
